@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <mkdir dir="C:\Users\FR0G\Documents\NetBeansProjects\TerminalAssess/File Handling/dist" />
+    <copy file="C:\Users\FR0G\Documents\NetBeansProjects\TerminalAssess\target/TerminalAssess-1.0-SNAPSHOT.jar" tofile="C:\Users\FR0G\Documents\NetBeansProjects\TerminalAssess/File Handling/dist/TerminalAssess.jar" overwrite="true" />
+  </target>
+</project>
